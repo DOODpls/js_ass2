@@ -118,7 +118,7 @@ header a {
 
 @media (max-width: 320px){
   .switch{
-    width: 100%;
+    width: 100vw;
   }
 }
 /* - - - - - - - - - - - - - - - - - - - - - - - - 
